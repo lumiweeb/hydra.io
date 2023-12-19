@@ -11,7 +11,7 @@
   font-family: "Montserrat-Light";
   src: url(fonts/Montserrat-Light.ttf);
 } 
-
+@media (max-width: 2600px){
 .hydra-desktop-to-edit,
 .hydra-desktop-to-edit * {
   box-sizing: border-box;
@@ -1757,4 +1757,47 @@
   left: 1225px;
   top: 5206px;
   overflow: visible;
+}
+
+}
+
+
+
+
+
+
+@media (max-width: 1220px){
+
+  .hydra-desktop-to-edit,
+  .hydra-desktop-to-edit * {
+    box-sizing: border-box;
+  }
+  .hydra-desktop-to-edit {
+    background: #302c42;
+    width: 1800px;
+    height: 5597px;
+    position: relative;
+    overflow: hidden;
+  }
+}
+
+
+
+
+
+
+
+@media (max-width: 576px){
+
+  .hydra-desktop-to-edit,
+  .hydra-desktop-to-edit * {
+    box-sizing: border-box;
+  }
+  .hydra-desktop-to-edit {
+    background: #302c42;
+    width: 1800px;
+    height: 5597px;
+    position: relative;
+    overflow: hidden;
+  }
 }
