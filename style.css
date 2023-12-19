@@ -1,0 +1,1760 @@
+@font-face {
+  font-family: 'Montserrat-Regular';
+  src: url(fonts/MontserratRegular.ttf);
+}
+
+@font-face { 
+  font-family: "Montserrat-Bold";
+  src: url(fonts/Montserrat-Bold.ttf);
+}
+@font-face {
+  font-family: "Montserrat-Light";
+  src: url(fonts/Montserrat-Light.ttf);
+} 
+
+.hydra-desktop-to-edit,
+.hydra-desktop-to-edit * {
+  box-sizing: border-box;
+}
+.hydra-desktop-to-edit {
+  background: #302c42;
+  width: 100%;
+  height: 5597px;
+  position: relative;
+  overflow: hidden;
+}
+.vector-1 {
+  width: 414px;
+  height: 669px;
+  position: absolute;
+  left: 1323px;
+  top: 170px;
+  overflow: visible;
+}
+.vector-3 {
+  width: 735.03px;
+  height: 419.32px;
+  position: absolute;
+  left: 1007.47px;
+  top: 419.18px;
+  overflow: visible;
+}
+.vector-2 {
+  width: 377px;
+  height: 845px;
+  position: absolute;
+  left: 1229px;
+  top: 0px;
+  overflow: visible;
+}
+.vector-4 {
+  width: 238.07px;
+  height: 561px;
+  position: absolute;
+  left: 2.5px;
+  top: 300px;
+  overflow: visible;
+}
+.hero-section {
+  position: absolute;
+  inset: 0;
+}
+.frame {
+  width: 102px;
+  height: 103px;
+  position: absolute;
+  left: 84px;
+  top: 50px;
+  overflow: visible;
+}
+.frame2 {
+  width: 76px;
+  height: 46px;
+  position: absolute;
+  left: 201px;
+  top: 79px;
+  overflow: hidden;
+}
+.group {
+  height: auto;
+  position: absolute;
+  right: 0.04%;
+  left: 0%;
+  width: 99.96%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  overflow: visible;
+}
+.rectangle-2 {
+  background: linear-gradient(
+    90deg,
+    rgba(129, 118, 175, 1) 0%,
+    rgba(192, 183, 232, 1) 100%
+  );
+  border-radius: 40px;
+  width: 155px;
+  height: 48px;
+  position: absolute;
+  left: 1601px;
+  top: 79px;
+}
+.rectangle-3 {
+  border-radius: 40px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  width: 154px;
+  height: 48px;
+  position: absolute;
+  left: 1400px;
+  top: 79px;
+}
+.join-hydra {
+  
+    color: #000000;
+    text-align: left;
+    font-family: "Montserrat-Bold", sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    position: absolute;
+    left: 1640px;
+    top: 96px;
+    
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  position: absolute;
+  left: 602px;
+  top: 94px;
+}
+.services {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  position: absolute;
+  left: 770px;
+  top: 94px;
+}
+.technologies {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  position: absolute;
+  left: 934px;
+  top: 94px;
+}
+.how-to {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  position: absolute;
+  left: 1140px;
+  top: 94px;
+}
+.contact-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  position: absolute;
+  left: 1435px;
+  top: 96px;
+}
+.rectangle-4 {
+  background: rgba(0, 0, 0, 0.13);
+  border-radius: 100px 100px 100px 240px;
+  width: 524px;
+  height: 455px;
+  position: absolute;
+  left: 1132px;
+  top: 251px;
+}
+.mask-group {
+  width: 490px;
+  height: 426px;
+  position: static;
+}
+.rectangle-5 {
+  background: url(images/2d70750174aa1b1c7e5c1f0c3e829798.jpg);
+  background-size: 534px;
+  background-position: -10px -67px;
+  border-radius: 100px 100px 100px 240px;
+  width: 490px;
+  height: 426px;
+  position: absolute;
+  left: 1148px;
+  top: 265px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.of-virtual-reality {
+  text-align: left;
+  position: absolute;
+  left: 90px;
+  top: 359px;
+}
+.of-virtual-reality-span {
+  color: #ffffff;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+
+}
+.of-virtual-reality-span2 {
+  background: linear-gradient(
+    269deg,
+    rgba(192, 183, 232, 1) 0%,
+    rgba(129, 118, 175, 1) 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 46px;
+  font-weight: 700;
+  position: absolute;
+  left: 67px;
+  top: -4px;
+  white-space: nowrap;
+}
+.dive-into-the-depths {
+  text-align: left;
+  position: absolute;
+  left: 90px;
+  top: 299px;
+}
+.dive-into-the-depths-span {
+  background: linear-gradient(91.57deg,rgba(192, 183, 232, 1) 0%,rgba(129, 118, 175, 1) 100%);
+  font-family: "Montserrat-Bold", sans-serif;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 50px;
+  font-weight: 700;
+}
+.dive-into-the-depths-span2 {
+  color: #ffffff;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 45px;
+  font-weight: 700;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-nisl-tincidunt-eget-lectus-mauris-eros-in-vitae {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 92px;
+  top: 451px;
+
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-nisl-tincidunt-eget-lectus-mauris-eros-in-vitae p{
+ margin: 10px 0;
+
+}
+.rectangle-52 {
+  background: linear-gradient(
+    90deg,
+    rgba(129, 118, 175, 1) 0%,
+    rgba(192, 183, 232, 1) 100%
+  );
+  border-radius: 40px;
+  width: 214px;
+  height: 48px;
+  position: absolute;
+  left: 84px;
+  top: 610px;
+}
+.build-your-world {
+  color: #343045;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  position: absolute;
+  left: 122px;
+  top: 626px;
+}
+.outline-arrow-small-right {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 309px;
+  top: 583px;
+  overflow: visible;
+}
+.rectangle-6 {
+  background: radial-gradient(
+    closest-side,
+    rgba(58, 52, 86, 0.95) 0%,
+    rgba(33, 30, 46, 1) 100%
+  );
+  border-radius: 90px;
+  width: 1672px;
+  height: 167px;
+  position: absolute;
+  left: 84px;
+  top: 794px;
+  box-shadow: 0px 4px 4px 0px rgba(192, 183, 232, 0.01);
+}
+.location-icon {
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  left: 138px;
+  top: 840px;
+  overflow: hidden;
+}
+.page-1 {
+  height: auto;
+  position: absolute;
+  left: 14.58px;
+  top: 5.83px;
+  overflow: visible;
+}
+.union-st-seattle-wa-98101-united-states {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 223px;
+  top: 886px;
+}
+.pay-us-a-visit {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 223px;
+  top: 847px;
+}
+._110-1111-1010 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 841px;
+  top: 886px;
+}
+.give-us-a-call {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 841px;
+  top: 848px;
+}
+.contact-hydra-v-tech-com {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 1365px;
+  top: 886px;
+}
+.send-us-a-message {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 1364px;
+  top: 848px;
+}
+.outline-mail {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  left: 1266px;
+  top: 844px;
+  overflow: visible;
+}
+.outline-phone-call {
+  width: 59px;
+  height: 59px;
+  position: absolute;
+  left: 743px;
+  top: 850px;
+  overflow: visible;
+}
+.vector-5 {
+  width: 20px;
+  height: 116.5px;
+  position: absolute;
+  left: 603.5px;
+  top: 820px;
+  overflow: visible;
+}
+.vector-6 {
+  width: 20px;
+  height: 116.5px;
+  position: absolute;
+  left: 1196px;
+  top: 822px;
+  overflow: visible;
+}
+.vector-7 {
+  width: 2239px;
+  height: 256.68px;
+  position: absolute;
+  left: 100.5px;
+  top: 1268.32px;
+  overflow: visible;
+}
+.vector-8 {
+  width: 2225px;
+  height: 211.75px;
+  position: absolute;
+  left: 111.5px;
+  top: 1553.82px;
+  overflow: visible;
+}
+.about-section {
+  position: absolute;
+  inset: 0;
+}
+.introduction {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 105px;
+  top: 1055px;
+}
+.to-hydra-vr {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Light", sans-serif;
+  font-size: 36px;
+  font-weight: 300;
+  position: absolute;
+  left: 106px;
+  top: 1109px;
+}
+.about2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 1040px;
+  top: 1300px;
+}
+.hydra-vr {
+  color: rgba(255, 255, 255, 0.95);
+  text-align: left;
+  font-family: "Montserrat-Light", sans-serif;
+  font-size: 36px;
+  font-weight: 300;
+  position: absolute;
+  left: 1035px;
+  top: 1349px;
+}
+.vitae-sapien-pellentesque-habitant-morbi-tristique-senectus-et-netus-et-feugiat-nibh-sed-pulvinar-proin-gravida-hendrerit-lectus-mi-sit-amet-mauris-commodo-quis-imperdiet-massa-tincidunt-nunc-viverra-aliquet-eget-sit-amet-tellus-ornare-lectus-sit-amet-est-placerat-in-lectus-magna-fringilla-urna-porttitor-rhoncus-vitae {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 1004px;
+  top: 1051px;
+  margin-top: 10px;
+}
+.vitae-sapien-pellentesque-habitant-morbi-tristique-senectus-et-netus-et-feugiat-nibh-sed-pulvinar-proin-gravida-hendrerit-lectus-mi-sit-amet-mauris-commodo-quis-imperdiet-massa-tincidunt-nunc-viverra-aliquet-eget-sit-amet-tellus-ornare-lectus-sit-amet-est-placerat-in-lectus-magna-fringilla-urna-porttitor-rhoncus-vitae p{
+  margin: 10px;
+}
+.eget-mi-proin-sed-libero-enim-sed-faucibus-turpis-nisl-rhoncus-mattis-rhoncus-urna-neque-viverra-justo-vivamus-at-augue-eget-arcu-dictum-ultrices-gravida-dictum-fusce-ut-placerat-orci-aenean-et-tortor-at-risus-viverra-adipiscing-at-in-mattis-aliquam-faucibus-purus-in-massa-est-placerat-in-egestas-erat-imperdiet-sed-consequat-semper-viverra-nam-libero-justo-laoreet-sit-amet-aliquam-etiam-erat-velit-scelerisque-in-dictum-non-consectetur-a-laoreet-sit-amet-cursus-sit-amet-vel-eros-donec-ac-odio-tempor-orci-dapibus-sem-nulla-pha-retra-diam-sit-amet-nisl-suscipit-adipiscing-bibendum-leo-a-diam-sollicitudi-n-tempor {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1026px;
+  top: 1405px;
+}
+.eget-mi-proin-sed-libero-enim-sed-faucibus-turpis-nisl-rhoncus-mattis-rhoncus-urna-neque-viverra-justo-vivamus-at-augue-eget-arcu-dictum-ultrices-gravida-dictum-fusce-ut-placerat-orci-aenean-et-tortor-at-risus-viverra-adipiscing-at-in-mattis-aliquam-faucibus-purus-in-massa-est-placerat-in-egestas-erat-imperdiet-sed-consequat-semper-viverra-nam-libero-justo-laoreet-sit-amet-aliquam-etiam-erat-velit-scelerisque-in-dictum-non-consectetur-a-laoreet-sit-amet-cursus-sit-amet-vel-eros-donec-ac-odio-tempor-orci-dapibus-sem-nulla-pha-retra-diam-sit-amet-nisl-suscipit-adipiscing-bibendum-leo-a-diam-sollicitudi-n-tempor p{
+  margin: 10px;
+}
+.mask-group2 {
+  width: 524px;
+  height: 557px;
+  position: static;
+}
+.rectangle-53 {
+  background: #a3a3a3;
+  border-radius: 100px 240px 100px 240px;
+  width: 524px;
+  height: 557px;
+  position: absolute;
+  left: 608px;
+  top: 1250px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.pexels-shvets-production-7562014-1 {
+
+  width: 527px;
+  height: 570px;
+  position: absolute;
+  left: 83px;
+  top: 1245px;
+}
+.rectangle-7 {
+  background: linear-gradient(
+    90deg,
+    rgba(129, 118, 175, 1) 0%,
+    rgba(192, 183, 232, 1) 100%
+  );
+  border-radius: 40px;
+  width: 214px;
+  height: 48px;
+  position: absolute;
+  left: 1030px;
+  top: 1691px;
+}
+.let-s-get-in-touch {
+  color: #343045;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  position: absolute;
+  left: 1069px;
+  top: 1708px;
+}
+.component-1 {
+  width: 228px;
+  height: 100px;
+  position: absolute;
+  left: 365px;
+  top: 1081px;
+}
+
+.strel {
+  position: absolute;
+  height: 100px;
+  top: 1950px;
+  left: 383px;
+}
+.vector-14 {
+  width: 1442px;
+  height: 814px;
+  position: absolute;
+  left: -3px;
+  top: 2187px;
+  overflow: visible;
+}
+.services-section {
+  position: absolute;
+  inset: 0;
+}
+.why-build {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 90px;
+  top: 1918px;
+}
+.with-hydra {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Light", sans-serif;
+  font-size: 36px;
+  font-weight: 300;
+  position: absolute;
+  left: 90px;
+  top: 1977px;
+}
+.vitae-sapien-pellentesque-habitant-morbi-tristique-senectus-et-netus-et-feugiat-nibh-sed-pulvinar-proin-gravida-hendrerit-lectus-mi-sit-amet-mauris-commodo-quis-imperdiet-massa-tincidunt-nunc-viverra-aliquet-eget-sit-amet-tellus-ornare-lectus-sit-amet-est-placerat-in-lectus-magna-fringilla-urna-porttitor-rhoncus-vitae2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1000px;
+  top: 1896px;
+}
+.vitae-sapien-pellentesque-habitant-morbi-tristique-senectus-et-netus-et-feugiat-nibh-sed-pulvinar-proin-gravida-hendrerit-lectus-mi-sit-amet-mauris-commodo-quis-imperdiet-massa-tincidunt-nunc-viverra-aliquet-eget-sit-amet-tellus-ornare-lectus-sit-amet-est-placerat-in-lectus-magna-fringilla-urna-porttitor-rhoncus-vitae2 p{
+  margin: 10px;
+}
+.component-2 {
+  width: 228px;
+  height: 100px;
+  position: absolute;
+  left: 365px;
+  top: 1949px;
+}
+.outline-arrow-small-right3 {
+  height: auto;
+  position: absolute;
+  right: 0%;
+  left: 56.14%;
+  width: 43.86%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  overflow: visible;
+}
+.vector-112 {
+  height: auto;
+  position: absolute;
+  right: 30.92%;
+  left: 0%;
+  width: 69.08%;
+  bottom: 50%;
+  top: 50%;
+  height: 0%;
+  overflow: visible;
+}
+.rectangle-9 {
+  background: radial-gradient(
+    closest-side,
+    rgba(67, 61, 96, 1) 0%,
+    rgba(33, 30, 46, 1) 100%
+  );
+  border-radius: 40px;
+  width: 310px;
+  height: 511px;
+  position: absolute;
+  left: 84px;
+  top: 2123px;
+}
+.ellipse-1 {
+  background: rgba(14, 14, 14, 0.32);
+  border-radius: 50%;
+  width: 219px;
+  height: 219px;
+  position: absolute;
+  left: 130px;
+  top: 2146px;
+}
+.mask-group3 {
+  width: 190.92px;
+  height: 190.92px;
+  position: static;
+}
+.ellipse-2 {
+  background: url(images/pexels-shvets-production-7561969\ 1.png);
+  border-radius: 50%;
+  width: 190.92px;
+  height: 190.92px;
+  position: absolute;
+  left: 143.64px;
+  top: 2160.44px;
+}
+.pexels-shvets-production-7561969-1 {
+  width: 205.36px;
+  height: 308.04px;
+  position: absolute;
+  left: 138.02px;
+  top: 2155.63px;
+}
+.simulation {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 160px;
+  top: 2386px;
+}
+.vector-10 {
+  width: 154px;
+  height: 1px;
+  position: absolute;
+  left: 162.5px;
+  top: 2432.5px;
+  overflow: visible;
+}
+.vitae-sapien-pellentesque-habitant-morbi-nunc-viverra-aliquet-porttitor-rhoncus-libero-justo-laoreet-sit-amet-vitae {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 115px;
+  top: 2469px;
+}
+.rectangle-10 {
+  background: linear-gradient(
+    90deg,
+    rgba(129, 118, 175, 1) 0%,
+    rgba(192, 183, 232, 1) 100%
+  );
+  border-radius: 40px;
+  width: 154px;
+  height: 48px;
+  position: absolute;
+  left: 162px;
+  top: 2546px;
+}
+.try-it-now {
+  color: #343045;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  position: absolute;
+  left: 201px;
+  top: 2562px;
+}
+.rectangle-11 {
+  background: radial-gradient(
+    closest-side,
+    rgba(67, 61, 96, 1) 0%,
+    rgba(33, 30, 46, 1) 100%
+  );
+  border-radius: 40px;
+  width: 310px;
+  height: 511px;
+  position: absolute;
+  left: 505px;
+  top: 2123px;
+}
+.ellipse-22 {
+  background: rgba(14, 14, 14, 0.32);
+  border-radius: 50%;
+  width: 219px;
+  height: 219px;
+  position: absolute;
+  left: 551px;
+  top: 2146px;
+}
+.ellipse-23 {
+  background: url(images/pexels-mikhail-nilov-7887140\ 1.png);
+  border-radius: 50%;
+  width: 190.92px;
+  height: 190.92px;
+  position: absolute;
+  left: 564.64px;
+  top: 2160.44px;
+}
+.pexels-mikhail-nilov-7887140-1 {
+  width: 369px;
+  height: 246px;
+  position: absolute;
+  left: 376px;
+  top: 2146px;
+}
+.education {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 585px;
+  top: 2386px;
+}
+.vector-113 {
+  width: 154px;
+  height: 1px;
+  position: absolute;
+  left: 583.5px;
+  top: 2432.5px;
+  overflow: visible;
+}
+.vitae-sapien-pellentesque-habitant-morbi-nunc-viverra-aliquet-porttitor-rhoncus-libero-justo-laoreet-sit-amet-vitae2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 535px;
+  top: 2469px;
+}
+.rectangle-12 {
+  background: linear-gradient(
+    90deg,
+    rgba(129, 118, 175, 1) 0%,
+    rgba(192, 183, 232, 1) 100%
+  );
+  border-radius: 40px;
+  width: 154px;
+  height: 48px;
+  position: absolute;
+  left: 583px;
+  top: 2546px;
+}
+.try-it-now2 {
+  color: #343045;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  position: absolute;
+  left: 622px;
+  top: 2562px;
+}
+.rectangle-13 {
+  background: radial-gradient(
+    closest-side,
+    rgba(67, 61, 96, 1) 0%,
+    rgba(33, 30, 46, 1) 100%
+  );
+  border-radius: 40px;
+  width: 310px;
+  height: 511px;
+  position: absolute;
+  left: 925px;
+  top: 2123px;
+}
+.ellipse-3 {
+  background: rgba(14, 14, 14, 0.32);
+  border-radius: 50%;
+  width: 219px;
+  height: 219px;
+  position: absolute;
+  left: 971px;
+  top: 2146px;
+}
+.ellipse-24 {
+  background: url(images/pexels-rodnae-productions-8098263\ 1.png);
+  border-radius: 50%;
+  width: 190.92px;
+  height: 190.92px;
+  position: absolute;
+  left: 984.64px;
+  top: 2160.44px;
+}
+.pexels-rodnae-productions-8098263-1 {
+  width: 228px;
+  height: 343px;
+  position: absolute;
+  left: 767px;
+  top: 2078px;
+}
+.self-care {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 1010px;
+  top: 2386px;
+}
+.vector-12 {
+  width: 154px;
+  height: 1px;
+  position: absolute;
+  left: 1003.5px;
+  top: 2432.5px;
+  overflow: visible;
+}
+.vitae-sapien-pellentesque-habitant-morbi-nunc-viverra-aliquet-porttitor-rhoncus-libero-justo-laoreet-sit-amet-vitae3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 955px;
+  top: 2469px;
+}
+.rectangle-14 {
+  background: linear-gradient(
+    90deg,
+    rgba(129, 118, 175, 1) 0%,
+    rgba(192, 183, 232, 1) 100%
+  );
+  border-radius: 40px;
+  width: 154px;
+  height: 48px;
+  position: absolute;
+  left: 1003px;
+  top: 2546px;
+}
+.try-it-now3 {
+  color: #343045;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  position: absolute;
+  left: 1042px;
+  top: 2562px;
+}
+.rectangle-15 {
+  background: radial-gradient(
+    closest-side,
+    rgba(67, 61, 96, 1) 0%,
+    rgba(33, 30, 46, 1) 100%
+  );
+  border-radius: 40px;
+  width: 310px;
+  height: 511px;
+  position: absolute;
+  left: 1350px;
+  top: 2123px;
+}
+.ellipse-4 {
+  background: rgba(14, 14, 14, 0.32);
+  border-radius: 50%;
+  width: 219px;
+  height: 219px;
+  position: absolute;
+  left: 1392px;
+  top: 2146px;
+}
+.ellipse-25 {
+  background: url(images/pexels-mali-maeder-756439\ 1.png);
+  border-radius: 50%;
+  width: 190.92px;
+  height: 190.92px;
+  position: absolute;
+  left: 1405.64px;
+  top: 2160.44px;
+}
+.pexels-mali-maeder-756439-1 {
+  width: 387px;
+  height: 258px;
+  position: absolute;
+  left: 1046px;
+  top: 2143px;
+}
+.outdoor {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 1441px;
+  top: 2386px;
+}
+.vector-13 {
+  width: 154px;
+  height: 1px;
+  position: absolute;
+  left: 1429.5px;
+  top: 2432.5px;
+  overflow: visible;
+}
+.vitae-sapien-pellentesque-habitant-morbi-nunc-viverra-aliquet-porttitor-rhoncus-libero-justo-laoreet-sit-amet-vitae4 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 1381px;
+  top: 2469px;
+}
+.rectangle-16 {
+  background: linear-gradient(
+    90deg,
+    rgba(129, 118, 175, 1) 0%,
+    rgba(192, 183, 232, 1) 100%
+  );
+  border-radius: 40px;
+  width: 154px;
+  height: 48px;
+  position: absolute;
+  left: 1429px;
+  top: 2546px;
+}
+.try-it-now4 {
+  color: #343045;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  position: absolute;
+  left: 1469px;
+  top: 2562px;
+}
+.tech-section {
+  position: absolute;
+  inset: 0;
+}
+.mask-group4 {
+  width: 1278px;
+  height: 303px;
+  position: static;
+}
+.rectangle-62 {
+  background: url(images/pexels-rodnae-productions-8097332\ 1\ \(1\).png);
+  background-position: 100px 0;
+  border-radius: 160px;
+  width: 1600px;
+  height: 303px;
+  position: absolute;
+  left: 84px;
+  top: 2748px;
+  box-shadow: 0px 4px 4px 0px rgba(192, 183, 232, 0.01);
+}
+.pexels-rodnae-productions-8097332-1 {
+  background: linear-gradient(
+    to left,
+    rgba(48, 44, 66, 0.79),
+    rgba(48, 44, 66, 0.79)
+  );
+  width: 1740px;
+  height: 1160px;
+  position: absolute;
+  left: -99px;
+  top: 2471px;
+}
+.technologies-hardware {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 607px;
+  top: 2856px;
+}
+.used-by-hydra-vr {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Light", sans-serif;
+  font-size: 36px;
+  font-weight: 300;
+  position: absolute;
+  left: 702px;
+  top: 2911px;
+}
+.ellipse-6 {
+  background: rgba(14, 14, 14, 0.32);
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 840px;
+  top: 3001px;
+}
+.ellipse-5 {
+  background: linear-gradient(
+    267.61deg,
+    rgba(192, 183, 232, 1) 0%,
+    rgba(129, 118, 175, 1) 100%
+  );
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  left: 855px;
+  top: 3016px;
+}
+.outline-chevron-small-down {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: 860px;
+  top: 3021px;
+  overflow: visible;
+}
+.hydra-tech-1-1 {
+  opacity: 0.8;
+  width: 174px;
+  height: 174px;
+  position: absolute;
+  left: 133px;
+  top: 3150px;
+}
+.hydra-tech-3-1 {
+  opacity: 0.8;
+  width: 252px;
+  height: 252px;
+  position: absolute;
+  left: 528px;
+  top: 3111px;
+}
+.hydra-tech-2-1 {
+  opacity: 0.8;
+  width: 263px;
+  height: 263px;
+  position: absolute;
+  left: 991px;
+  top: 3105px;
+}
+.hydra-tech-4-1 {
+  opacity: 0.8;
+  width: 282px;
+  height: 282px;
+  position: absolute;
+  left: 1400px;
+  top: 3096px;
+}
+.vector-15 {
+  width: 1030%;
+  height: 163px;
+  position: absolute;
+  left: -2px;
+  top: 3625px;
+  overflow: visible;
+}
+.vector-18 {
+  width: 1437px;
+  height: 263.99px;
+  position: absolute;
+  left: 2.5px;
+  top: 5165px;
+  overflow: visible;
+}
+.vector-19 {
+  width: 1435px;
+  height: 363px;
+  position: absolute;
+  left: 4.5px;
+  top: 4886px;
+  overflow: visible;
+}
+.process-section {
+  position: absolute;
+  inset: 0;
+}
+.how-we-build {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 87px;
+  top: 3447px;
+}
+.with-hydra-vr {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Light", sans-serif;
+  font-size: 36px;
+  font-weight: 300;
+  position: absolute;
+  left: 87px;
+  top: 3506px;
+}
+.vitae-sapien-pellentesque-habitant-morbi-tristique-senectus-et-netus-et-feugiat-nibh-sed-pulvinar-proin-gravida-hendrerit-lectus-mi-sit-amet-mauris-commodo-quis-imperdiet-massa-tincidunt-nunc-viverra-aliquet-eget-sit-amet-tellus-ornare-lectus-sit-amet-est-placerat-in-lectus-magna-fringilla-urna-porttitor-rhoncus-vitae3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1017px;
+  top: 3440px;
+}
+.vitae-sapien-pellentesque-habitant-morbi-tristique-senectus-et-netus-et-feugiat-nibh-sed-pulvinar-proin-gravida-hendrerit-lectus-mi-sit-amet-mauris-commodo-quis-imperdiet-massa-tincidunt-nunc-viverra-aliquet-eget-sit-amet-tellus-ornare-lectus-sit-amet-est-placerat-in-lectus-magna-fringilla-urna-porttitor-rhoncus-vitae3 p{
+  margin: 7px;
+}
+.component-3 {
+  width: 228px;
+  height: 100px;
+  position: absolute;
+  left: 424px;
+  top: 3478px;
+}
+.outline-arrow-small-right4 {
+  height: auto;
+  position: absolute;
+  right: 0%;
+  left: 56.14%;
+  width: 43.86%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  overflow: visible;
+}
+.vector-114 {
+  height: auto;
+  position: absolute;
+  right: 30.92%;
+  left: 0%;
+  width: 69.08%;
+  bottom: 50%;
+  top: 45%;
+  height: 10%;
+  overflow: visible;
+}
+.ellipse-7 {
+  background: rgba(13, 13, 13, 0.32);
+  border-radius: 50%;
+  width: 198px;
+  height: 198px;
+  position: absolute;
+  left: 141px;
+  top: 3669px;
+}
+.ellipse-8 {
+  background: linear-gradient(
+    251.27deg,
+    rgba(192, 183, 232, 1) 0%,
+    rgba(129, 118, 175, 1) 100%
+  );
+  border-radius: 50%;
+  width: 159px;
+  height: 159px;
+  position: absolute;
+  left: 161px;
+  top: 3688px;
+}
+.ellipse-9 {
+  background: rgba(13, 13, 13, 0.32);
+  border-radius: 50%;
+  width: 198px;
+  height: 198px;
+  position: absolute;
+  left: 554px;
+  top: 3669px;
+}
+.ellipse-10 {
+  background: linear-gradient(
+    251.27deg,
+    rgba(192, 183, 232, 1) 0%,
+    rgba(129, 118, 175, 1) 100%
+  );
+  border-radius: 50%;
+  width: 159px;
+  height: 159px;
+  position: absolute;
+  left: 574px;
+  top: 3688px;
+}
+.ellipse-11 {
+  background: rgba(13, 13, 13, 0.32);
+  border-radius: 50%;
+  width: 198px;
+  height: 198px;
+  position: absolute;
+  left: 981px;
+  top: 3669px;
+}
+.ellipse-12 {
+  background: linear-gradient(
+    251.27deg,
+    rgba(192, 183, 232, 1) 0%,
+    rgba(129, 118, 175, 1) 100%
+  );
+  border-radius: 50%;
+  width: 159px;
+  height: 159px;
+  position: absolute;
+  left: 1001px;
+  top: 3688px;
+}
+.ellipse-13 {
+  background: rgba(13, 13, 13, 0.32);
+  border-radius: 50%;
+  width: 198px;
+  height: 198px;
+  position: absolute;
+  left: 1402px;
+  top: 3669px;
+}
+.ellipse-14 {
+  background: linear-gradient(
+    251.27deg,
+    rgba(192, 183, 232, 1) 0%,
+    rgba(129, 118, 175, 1) 100%
+  );
+  border-radius: 50%;
+  width: 159px;
+  height: 159px;
+  position: absolute;
+  left: 1422px;
+  top: 3688px;
+}
+._01 {
+  color: #343045;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 64px;
+  font-weight: 700;
+  position: absolute;
+  left: 205px;
+  top: 3729px;
+}
+._02 {
+  color: #343045;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 64px;
+  font-weight: 700;
+  position: absolute;
+  left: 611px;
+  top: 3729px;
+}
+._03 {
+  color: #343045;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 64px;
+  font-weight: 700;
+  position: absolute;
+  left: 1038px;
+  top: 3729px;
+}
+._04 {
+  color: #343045;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 64px;
+  font-weight: 700;
+  position: absolute;
+  left: 1458px;
+  top: 3729px;
+}
+.outline-arrow-small-right5 {
+  width: 67px;
+  height: 67px;
+  position: absolute;
+  left: 98px;
+  top: 3874px;
+  overflow: visible;
+}
+._3-d-conception-design {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 161px;
+  top: 3892px;
+}
+.outline-arrow-small-right6 {
+  width: 67px;
+  height: 67px;
+  position: absolute;
+  left: 537px;
+  top: 3874px;
+  overflow: visible;
+}
+.interaction-design {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 600px;
+  top: 3892px;
+}
+.outline-arrow-small-right7 {
+  width: 67px;
+  height: 67px;
+  position: absolute;
+  left: 961px;
+  top: 3874px;
+  overflow: visible;
+}
+.vr-world-user-testing {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 1024px;
+  top: 3892px;
+}
+.outline-arrow-small-right8 {
+  width: 67px;
+  height: 67px;
+  position: absolute;
+  left: 1388px;
+  top: 3874px;
+  overflow: visible;
+}
+.hydra-vr-deploy {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 1451px;
+  top: 3892px;
+}
+.opt-in-section {
+  position: absolute;
+  inset: 0;
+  left: 160px;
+}
+.rectangle-24 {
+  background: radial-gradient(
+    closest-side,
+    rgba(64, 58, 95, 1) 0%,
+    rgba(33, 30, 46, 1) 100%
+  );
+  border-radius: 100px;
+  width: 1275px;
+  height: 1008px;
+  position: absolute;
+  left: 84px;
+  top: 4068px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.join-hydra2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 598px;
+  top: 4158px;
+}
+.let-s-build-your-vr-experience {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Light", sans-serif;
+  font-size: 36px;
+  font-weight: 300;
+  position: absolute;
+  left: 447px;
+  top: 4253px;
+}
+.rectangle-17 {
+  border-radius: 40px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  width: 524px;
+  height: 72px;
+  position: absolute;
+  left: 191px;
+  top: 4362px;
+}
+.rectangle-18 {
+  border-radius: 40px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  width: 524px;
+  height: 72px;
+  position: absolute;
+  left: 725px;
+  top: 4362px;
+}
+.first-name input{
+
+  background: transparent;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 388px;
+  top: 4389px;
+}
+::placeholder, input{
+  color: #ffffff;
+}
+.rectangle-19 {
+  border-radius: 40px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  width: 524px;
+  height: 72px;
+  position: absolute;
+  left: 192px;
+  top: 4473px;
+}
+.email input{
+  background: transparent;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 389px;
+  top: 4500px;
+}
+.rectangle-21 {
+  border-radius: 40px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  width: 1058px;
+  height: 72px;
+  position: absolute;
+  left: 191px;
+  top: 4578px;
+}
+.subject input{
+  background: transparent;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 390px;
+  top: 4605px;
+}
+.rectangle-22 {
+  border-radius: 40px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  width: 1058px;
+  height: 210px;
+  position: absolute;
+  left: 190px;
+  top: 4683px;
+}
+.tell-us-something input{
+  background: transparent;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 390px;
+  top: 4710px;
+}
+.rectangle-20 {
+  border-radius: 40px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  width: 524px;
+  height: 72px;
+  position: absolute;
+  left: 728px;
+  top: 4473px;
+}
+.phone-number input{
+  background: transparent;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 920px;
+  top: 4500px;
+}
+.last-name input{
+  background: transparent;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 920px;
+  top: 4389px;
+}
+.rectangle-23 {
+  background: linear-gradient(
+    90deg,
+    rgba(129, 118, 175, 1) 0%,
+    rgba(192, 183, 232, 1) 100%
+  );
+  border-radius: 40px;
+  width: 214px;
+  height: 48px;
+  position: absolute;
+  left: 613px;
+  top: 4944px;
+}
+.send-to-hydra {
+  color: #343045;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  position: absolute;
+  left: 826px;
+  top: 4960px;
+}
+.vector-16 {
+  width: 414px;
+  height: 0px;
+  position: absolute;
+  left: 513px;
+  top: 4232px;
+  overflow: visible;
+}
+.footer-section {
+  position: absolute;
+  inset: 0;
+}
+.frame3 {
+  width: 185px;
+  height: 187px;
+  position: absolute;
+  left: 226px;
+  top: 5206px;
+  overflow: visible;
+}
+.about-services-technologies-how-to-join-hydra {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  left: 672px;
+  top: 5203px;
+}
+._2023-hydra-landing-page-by-zine-e-falouti-all-rights-reserved {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: absolute;
+  left: 615px;
+  top: 5521px;
+}
+.f-a-q-sitemap-conditions-licenses {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  left: 1017px;
+  top: 5203px;
+}
+.socialize-with-hydra {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  left: 1365px;
+  top: 5203px;
+}
+.pinterest {
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: 1606px;
+  top: 5262px;
+  overflow: visible;
+}
+.instagram {
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: 1554px;
+  top: 5262px;
+  overflow: visible;
+}
+.facebook {
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: 1506px;
+  top: 5262px;
+  overflow: visible;
+}
+.linkedin {
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: 1410px;
+  top: 5262px;
+  overflow: visible;
+}
+.youtube {
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: 1459px;
+  top: 5262px;
+  overflow: visible;
+}
+.twitter {
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: 1360px;
+  top: 5262px;
+  overflow: visible;
+}
+.rectangle-25 {
+  background: linear-gradient(
+    90deg,
+    rgba(129, 118, 175, 1) 0%,
+    rgba(192, 183, 232, 1) 100%
+  );
+  border-radius: 40px;
+  width: 214px;
+  height: 48px;
+  position: absolute;
+  left: 1360px;
+  top: 5343px;
+}
+.build-your-world2 {
+  color: #343045;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  position: absolute;
+  left: 1400px;
+  top: 5360px;
+}
+.vector-17 {
+  width: 1269px;
+  height: 23px;
+  position: absolute;
+  left: 307px;
+  top: 5472px;
+  overflow: visible;
+}
+.vector-20 {
+  width: 15px;
+  height: 196px;
+  position: absolute;
+  left: 554px;
+  top: 5198.5px;
+  overflow: visible;
+}
+.vector-21 {
+  width: 15px;
+  height: 196px;
+  position: absolute;
+  left: 900px;
+  top: 5203px;
+  overflow: visible;
+}
+.vector-22 {
+  width: 15px;
+  height: 196px;
+  position: absolute;
+  left: 1225px;
+  top: 5206px;
+  overflow: visible;
+}
